@@ -1,0 +1,4 @@
+scratch
+rupture
+hollow
+deformation

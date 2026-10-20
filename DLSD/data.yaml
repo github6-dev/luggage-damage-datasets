@@ -1,0 +1,8 @@
+path: .
+train: images/train
+val: images/val
+names:
+  0: scratch
+  1: rupture
+  2: hollow
+  3: deformation
