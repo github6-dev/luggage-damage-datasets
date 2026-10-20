@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>CANCZ109578-1.jpg</filename>
+	<path>/media/guo/DATA/chen_files/hollow/images/CANCZ109578-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>816</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hollow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>192</ymin>
+			<xmax>459</xmax>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+</annotation>
