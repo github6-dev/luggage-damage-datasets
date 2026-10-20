@@ -1,0 +1,9 @@
+path: .
+train: images/train
+val: images/val
+names:
+  0: wheel
+  1: lock
+  2: handle
+  3: box
+  4: lever

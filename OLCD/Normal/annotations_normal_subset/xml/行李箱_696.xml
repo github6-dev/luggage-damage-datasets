@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>行李箱_696.jpg</filename>
+	<path>/media/guo/DATA/part_detection/image/行李箱_696.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>696</width>
+		<height>928</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>box</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>5</ymin>
+			<xmax>647</xmax>
+			<ymax>928</ymax>
+		</bndbox>
+	</object>
+</annotation>
